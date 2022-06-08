@@ -1,0 +1,2 @@
+# Smart-Manufacturing-Testbed-for-Anomaly-Detection
+We have publicly released our source codes and benchmark data to enable others reproduce our work. In particular, we are publicly releasing, with this submission, our smart manufacturing database corpus of 4 datasets. This resource will encourage the community to standardize efforts at benchmarking anomaly detection in this important domain. We also encourage the community to expand this resource by contributing their new datasets and models.
